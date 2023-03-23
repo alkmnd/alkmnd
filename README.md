@@ -1,5 +1,5 @@
 ## <div align="center"> Hi there ✌🏻 </div>
-#### <div align="center"> I am ✨ Software Engineer ✨ from Moscow, currently studying at Higher School of Economics, Faculcy of Computer Science 👩‍💻 </div>
+#### <div align="center"> I am ✨ Software Engineer ✨, currently studying at Higher School of Economics, Faculcy of Computer Science 👩‍💻 </div>
 
 <!--
 **alkmnd/alkmnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
