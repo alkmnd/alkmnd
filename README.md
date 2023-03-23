@@ -1,6 +1,8 @@
 ## <div align="center"> Hi there ✌🏻 </div>
 #### <div align="center"> I am ✨ Software Engineer ✨, currently studying at Higher School of Economics, Faculcy of Computer Science 👩‍💻 </div>
-
+---
+#### Social networks:
+[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/alkmnd)
 <!--
 **alkmnd/alkmnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
