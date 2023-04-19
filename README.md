@@ -5,7 +5,6 @@
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/alkmnd)
 
 
-🔭 I’m currently working on my course project "Guide Forum" - iOS app for posting tutorials. 
 <!--
 **alkmnd/alkmnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
