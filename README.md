@@ -1,7 +1,17 @@
-## <div align="center"> Hi there ✌🏻 </div>
-#### <div align="center"> I am Software Engineer from Moscow, currently studying at Higher School of Economics, Faculty of Computer Science </div>
+## <div align="center"> Hello ✌🏻 </div>
+#### <div align="center"> 🌟 I am a Software Engineer from Moscow with a Bachelor's degree in Software Engineering 🌟 </div>
 ---
-#### Social networks:
+#### Education 🎓
+* Bachelor's Degree in Software Engineering
+  - Higher School of Economics
+  - Faculcy of Computer Science
+  - 2024
+#### Skills 💻
+* Programming Languages: Go, Python, Swift
+* Database Management: SQL, Redis, MongoDB
+* Tools & Technologies: Git, Docker 
+  
+#### Contacts 📬
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/nabelovaa)
 
 
