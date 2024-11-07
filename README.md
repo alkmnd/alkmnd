@@ -4,7 +4,7 @@
 #### Education 🎓
 * Bachelor's Degree in Software Engineering
   - Higher School of Economics
-  - Faculcy of Computer Science
+  - Faculty of Computer Science
   - 2024
 #### Skills 💻
 * Programming Languages: Go, Python, Swift
